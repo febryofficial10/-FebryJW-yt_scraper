@@ -1,0 +1,26 @@
+{
+  "name": "@febryjw/ytdl",
+  "version": "0.0.1",
+  "description": "A simple YouTube video downloader for audio and video formats with resolusi and quality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "youtube",
+    "scraper",
+    "downloader",
+    "audio",
+    "y2mate",
+    "ytmp3",
+    "ytmp4",
+    "ytdl-core",
+    "video"
+  ],
+  "author": "FEBRY JW",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "yt-search": "^2.0.0"
+  }
+}
